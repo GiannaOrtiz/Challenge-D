@@ -114,3 +114,5 @@ measure5
 # Measure 8
 measure2
 
+sleep 12
+sample :vinyl_backspin
